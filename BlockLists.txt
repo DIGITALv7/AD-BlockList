@@ -35,3 +35,6 @@ https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/Beta/Bl
 
 BlockList_V3
 https://raw.githubusercontent.com/Werewolfke/AD-BlockList/main/BlockList/Alpha/BlockList_V3.txt
+
+MannyMan's Ad Block
+https://raw.githubusercontent.com/DIGITALv7/MannyMan-AdBlock/refs/heads/main/MannyMan-AdBlock.txt
